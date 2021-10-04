@@ -1,6 +1,6 @@
 # Hero Programmers
 
-This project was bootstrapped with [Hero Programmers](https://review-website-faysal-akbar.netlify.app/).
+Project : [Hero Programmers](https://review-website-faysal-akbar.netlify.app/).
 
 ## Project Activity :
 
